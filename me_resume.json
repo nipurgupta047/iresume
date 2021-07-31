@@ -1,0 +1,56 @@
+{
+	"basics": {
+		"name": "NIPUR GUPTA",
+		"label": "Student",
+	//	"picture": "---Enter Image URL----",
+		"email": "2019kuec2014@iiitkota.ac.in",
+		"phone": "+91-9116696579",
+		
+		"summary": "HI! Myself Nipur Gupta. I am doing Btech in ECE from IIIT Kota.",
+		"location": {
+			"address": "Shastri Nagar-I, Kamalganj. Dist-Farrukhabad",
+			"postalCode": "209724",
+			"city": "Farrukhabad",
+			"countryCode": "India",
+			"region": "Uttar Pradesh"
+		},
+		"profiles": [
+			{
+				"network": "Github",
+				"username": "nipurgupta047",
+				"url": "https://www.github.com/nipurgupta047/"
+			},
+			{
+				"network": "linkedin",
+				"username": "nipur-gupta-8557b3217",
+				"url": "https://www.linkedin.com/in/nipur-gupta-8557b3217/"
+			},
+			{
+				"network": "Instagram",
+				"username": "nipur.gupta",
+				"url": "https://instagram.com/nipur.gupta"
+			}
+		]
+	},
+	
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2019-08-05 //Date",
+		
+		"gpa": "7.94",
+		"courses": [
+			"Electronics & Communication Engineering"
+		]
+	}],
+	"skills": [{
+		"level": "Master",
+		"keywords": ["HTML", "CSS", "C/C++", "Competitive programming", "DSA"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Cricket", "Badminton"]
+	}],
+	//"references": []
+}
